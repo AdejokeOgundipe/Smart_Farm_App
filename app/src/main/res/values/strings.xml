@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart App</string>
+    <string name="todo">TODO</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="camera">Camera</string>
+    <string name="prediction">prediction</string>
+</resources>
